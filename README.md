@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Thiago Batista de Souza Marcelino
+- Matricula: 886878
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Apresentção de Lugares turisticos pelo mundo.
 
 
 ## Print do(s) wireframe(s) criado
@@ -23,4 +23,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
+![alt text](image-1.png)
